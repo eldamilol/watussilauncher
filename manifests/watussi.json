@@ -1,11 +1,11 @@
 {
   "pack": "watussi",
-  "updatedAt": "2026-10-15T16:58:46.021Z",
+  "updatedAt": "2026-10-15T17:05:45.538Z",
   "mods": [
     {
       "name": "watussimod-1.0.0-neoforge-26.1.2.jar",
-      "size": 60554788,
-      "sha256": "3a103b399d9f05d38b99e6c88ac6f4bf80bba64819793196eaab722304a952f0"
+      "size": 60560415,
+      "sha256": "e97f30064831648b92688d20a481ab1bf58f07e5e7bedb112772f9ebabb7d9ae"
     }
   ]
 }
