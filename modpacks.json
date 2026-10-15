@@ -1,0 +1,13 @@
+{
+  "modpacks": [
+    {
+      "id": "watussi",
+      "name": "Watussi",
+      "tag": "gay",
+      "mc": "26.1.2",
+      "neoforge": "26.1.2.95",
+      "spin": true,
+      "ramGb": 6
+    }
+  ]
+}
