@@ -1,7 +1,12 @@
 {
   "pack": "watussi",
-  "updatedAt": "2026-10-15T14:44:34.479Z",
+  "updatedAt": "2026-10-15T15:08:19.673Z",
   "mods": [
+    {
+      "name": "AI-Improvements-26.1.1-0.5.4.jar",
+      "size": 28684,
+      "sha256": "4d7ab708ec4f99092e5ec83b21c4e038f04f94644211d61b9576bcb726ddbf4e"
+    },
     {
       "name": "BadOptimizations-2.4.1-26.1-forge.jar",
       "size": 62720,
@@ -43,9 +48,24 @@
       "sha256": "ad4317f0ca53e3c88503a413715aaa1c9ae6a4cec0a81fc74e31da5a7d49a521"
     },
     {
+      "name": "durabilitytooltip-1.2.0-neoforge-mc26.1.jar",
+      "size": 20759,
+      "sha256": "7e3bce821f86339e9cc44b346f3c458f9e51561afe54b4a95398f06fdd21888f"
+    },
+    {
       "name": "entityculling-neoforge-1.11.3-mc26.1.2.jar",
       "size": 1497028,
       "sha256": "7a14c25ca050c92909ed7f753a18f63a1993c501a8124658a43c25a8525f8ae0"
+    },
+    {
+      "name": "explosiveenhancement-neoforge-26.1.0-1.1.2.jar",
+      "size": 94846,
+      "sha256": "cbce73d9cb611b60f14c95c62147577ec7ac1530abadcba0605bc17aa0b703cf"
+    },
+    {
+      "name": "framework-neoforge-26.1.2-0.13.23.jar",
+      "size": 514297,
+      "sha256": "5c5a51df7236e456fe5e62c757839e3e13a34c8ba96c306139114f1a4b7a8b71"
     },
     {
       "name": "fzzy_config-0.7.6+26.1+neoforge.jar",
@@ -68,6 +88,11 @@
       "sha256": "78435ca80bb18b2d49c7e9fd53226ad457cc50227cf84c8837673e47fe2f97fc"
     },
     {
+      "name": "inventoryessentials-neoforge-26.1.2-26.1.2.7.jar",
+      "size": 206394,
+      "sha256": "1d7d835b4da44975bfc2810568bfd4ad8f8e895c7309ce197098e4ef81837454"
+    },
+    {
       "name": "jei-26.1.2-neoforge-29.34.0.90.jar",
       "size": 1828696,
       "sha256": "2161192c3e92e4df63577c6c6f1fdbfc857acec956486fe0bfbc108f0386fafd"
@@ -81,6 +106,11 @@
       "name": "MaxHealthFix-neoforge-MC26.1.2-26.1.2.3.jar",
       "size": 18315,
       "sha256": "be097ef2e628d999ad43f8f93f904f348f39af1c902186bd299f413e5cadb0fa"
+    },
+    {
+      "name": "modernfix-neoforge-5.27.24+mc26.1.2.jar",
+      "size": 511945,
+      "sha256": "120b3ce5a19263fd4e546029af0cb125b3d0529faf23facd8c71eba17516c734"
     },
     {
       "name": "MouseTweaks-neoforge-mc26.1-2.31.jar",
@@ -98,6 +128,11 @@
       "sha256": "f77b6400f6181c51c8cc1db07f9dea63075fc1de3be4e5a6afd42b545f2b2e47"
     },
     {
+      "name": "refurbished_furniture-neoforge-26.1.2-1.0.23.jar",
+      "size": 7308119,
+      "sha256": "99a37904af456655e05737b64e38211a36167c4d907c4d2d05fa9a877a5c6abf"
+    },
+    {
       "name": "sodium-extra-neoforge-0.9.4+mc26.1.2.jar",
       "size": 479189,
       "sha256": "d338567e89138238e49803e4603ab4a49262998fa9c7de95a66acf883b461e73"
@@ -106,6 +141,11 @@
       "name": "sodium-neoforge-0.9.2+mc26.1.2.jar",
       "size": 1260562,
       "sha256": "e760fb2ad8bacd8e706f71e78e48f9d93a5c66a4d5976e4db053abebf9f08252"
+    },
+    {
+      "name": "supermartijn642configlib-1.1.8-neoforge-mc26.1.jar",
+      "size": 206410,
+      "sha256": "1d54834496d013c9d307798f86a01906ea091ceb5981d8a0a9b7cfef63691621"
     },
     {
       "name": "trashslot-neoforge-26.1.2-26.1.2.4.jar",
@@ -121,11 +161,6 @@
       "name": "watussimod-1.0.0-neoforge-26.1.2.jar",
       "size": 60434357,
       "sha256": "fcd8d47540ab4612dd9756b9d7a0cf3586844250f83b7493b9946c173a718b32"
-    },
-    {
-      "name": "xaerominimap-neoforge-26.1.2-26.6.0.jar",
-      "size": 2166938,
-      "sha256": "6e0ba2c9b93b0bbcdd2ad08e270e88187d97b19bf96099b421dd03793c6f332d"
     },
     {
       "name": "xaeroworldmap-neoforge-26.1.2-1.47.0.jar",
