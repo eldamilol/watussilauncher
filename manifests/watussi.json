@@ -1,6 +1,6 @@
 {
   "pack": "watussi",
-  "updatedAt": "2026-10-15T15:10:52.515Z",
+  "updatedAt": "2026-10-15T15:16:57.777Z",
   "mods": [
     {
       "name": "AI-Improvements-26.1.1-0.5.4.jar",
@@ -61,6 +61,11 @@
       "name": "explosiveenhancement-neoforge-26.1.0-1.1.2.jar",
       "size": 94846,
       "sha256": "cbce73d9cb611b60f14c95c62147577ec7ac1530abadcba0605bc17aa0b703cf"
+    },
+    {
+      "name": "ferritecore-9.0.0-neoforge.jar",
+      "size": 71947,
+      "sha256": "a3292dadb1caf7ad220d3a4b68abff2ad58592ddd372160f9cf66c57d159b539"
     },
     {
       "name": "framework-neoforge-26.1.2-0.13.23.jar",
