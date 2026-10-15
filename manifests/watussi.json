@@ -1,6 +1,6 @@
 {
   "pack": "watussi",
-  "updatedAt": "2026-10-15T14:20:16.440Z",
+  "updatedAt": "2026-10-15T14:44:34.479Z",
   "mods": [
     {
       "name": "BadOptimizations-2.4.1-26.1-forge.jar",
@@ -66,11 +66,6 @@
       "name": "Iceberg-26.1.2-neoforge-1.4.1.2.jar",
       "size": 178629,
       "sha256": "78435ca80bb18b2d49c7e9fd53226ad457cc50227cf84c8837673e47fe2f97fc"
-    },
-    {
-      "name": "immersivehotbar-1.2.2-neoforge-26.1.2.jar",
-      "size": 125268,
-      "sha256": "002486b564f0a8e7030aa9380a21db109e30bc43781e9a17d5a29bda4ab8cfab"
     },
     {
       "name": "jei-26.1.2-neoforge-29.34.0.90.jar",
