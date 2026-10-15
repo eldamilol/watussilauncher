@@ -9,14 +9,6 @@
       "server": "100.71.35.15",
       "spin": true,
       "ramGb": 6
-    },
-    {
-      "id": "jeje",
-      "name": "jeje",
-      "tag": "jeje",
-      "mc": "26.1.2",
-      "neoforge": "26.1.2.95",
-      "ramGb": 6
     }
   ]
 }
