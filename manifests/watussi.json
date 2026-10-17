@@ -1,6 +1,6 @@
 {
   "pack": "watussi",
-  "updatedAt": "2026-10-16T01:30:20.180Z",
+  "updatedAt": "2026-10-17T01:52:55.627Z",
   "mods": [
     {
       "name": "AI-Improvements-26.1.1-0.5.4.jar",
@@ -73,9 +73,9 @@
       "sha256": "5c5a51df7236e456fe5e62c757839e3e13a34c8ba96c306139114f1a4b7a8b71"
     },
     {
-      "name": "fzzy_config-0.7.6+26.1+neoforge.jar",
-      "size": 2326377,
-      "sha256": "b3848ffbe5bbfcf0e76b3a0f4c8278ce28789fd4fc2e41d914a089b3e2465721"
+      "name": "fzzy_config-0.7.7+26.1+neoforge.jar",
+      "size": 2348328,
+      "sha256": "1cae023c36e8b557b1b759366e44b423511e8918f3c9b4fe91566c688b7445d7"
     },
     {
       "name": "geckolib-neoforge-26.1.2-5.5.2.jar",
@@ -164,8 +164,8 @@
     },
     {
       "name": "watussimod-1.0.0-neoforge-26.1.2.jar",
-      "size": 62404778,
-      "sha256": "fe8f6cc6f96021bfe826c349a5ab46482e343f7b50fb6d0f9b51190bd07f75df"
+      "size": 62463195,
+      "sha256": "8458bf38dc5cf7ae0147ec1604e832ff68b6c0f462ca8f2098dc99a066046ab3"
     },
     {
       "name": "worldedit-mod-7.4.3.jar",
