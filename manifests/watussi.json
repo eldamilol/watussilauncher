@@ -1,6 +1,6 @@
 {
   "pack": "watussi",
-  "updatedAt": "2026-10-17T01:52:55.627Z",
+  "updatedAt": "2026-10-18T18:25:47.700Z",
   "mods": [
     {
       "name": "AI-Improvements-26.1.1-0.5.4.jar",
@@ -98,9 +98,9 @@
       "sha256": "1d7d835b4da44975bfc2810568bfd4ad8f8e895c7309ce197098e4ef81837454"
     },
     {
-      "name": "jei-26.1.2-neoforge-29.34.0.90.jar",
-      "size": 1828696,
-      "sha256": "2161192c3e92e4df63577c6c6f1fdbfc857acec956486fe0bfbc108f0386fafd"
+      "name": "jei-26.1.2-neoforge-29.47.0.110.jar",
+      "size": 2387371,
+      "sha256": "588848a720be5c8810d114a8d7e65cc29d6b86dcf7f8c5ad050f6e73321fd09a"
     },
     {
       "name": "kotlinforforge-6.4.0-all.jar",
@@ -111,6 +111,11 @@
       "name": "MaxHealthFix-neoforge-MC26.1.2-26.1.2.3.jar",
       "size": 18315,
       "sha256": "be097ef2e628d999ad43f8f93f904f348f39af1c902186bd299f413e5cadb0fa"
+    },
+    {
+      "name": "mezz_config-26.1.2-neoforge-0.6.8-standalone.jar",
+      "size": 327190,
+      "sha256": "5861979f9218b525f2f043a5a7f98ee65d78c5138f0d68a0f8293aaaac042340"
     },
     {
       "name": "modernfix-neoforge-5.27.24+mc26.1.2.jar",
@@ -164,8 +169,8 @@
     },
     {
       "name": "watussimod-1.0.0-neoforge-26.1.2.jar",
-      "size": 62463195,
-      "sha256": "8458bf38dc5cf7ae0147ec1604e832ff68b6c0f462ca8f2098dc99a066046ab3"
+      "size": 67802195,
+      "sha256": "283490592957f5fc99ab5962a1ae43fe8c07fad8608df9fe188a328b97d8f679"
     },
     {
       "name": "worldedit-mod-7.4.3.jar",
