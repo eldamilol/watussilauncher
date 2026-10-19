@@ -1,6 +1,6 @@
 {
   "pack": "watussi",
-  "updatedAt": "2026-10-18T18:25:47.700Z",
+  "updatedAt": "2026-10-19T02:15:44.741Z",
   "mods": [
     {
       "name": "AI-Improvements-26.1.1-0.5.4.jar",
@@ -169,13 +169,18 @@
     },
     {
       "name": "watussimod-1.0.0-neoforge-26.1.2.jar",
-      "size": 67802195,
-      "sha256": "283490592957f5fc99ab5962a1ae43fe8c07fad8608df9fe188a328b97d8f679"
+      "size": 67834498,
+      "sha256": "d7278958ddfc24755b77e64a2c8d1e322e48afc1f535b8a2a81398b9b91b1ef7"
     },
     {
       "name": "worldedit-mod-7.4.3.jar",
       "size": 5215216,
       "sha256": "a8b0d9cdafac9e718de0d00c493d49c4535e41008c51b8469d16cd78865d89f2"
+    },
+    {
+      "name": "xaerominimap-neoforge-26.1.2-26.6.0.jar",
+      "size": 2166938,
+      "sha256": "6e0ba2c9b93b0bbcdd2ad08e270e88187d97b19bf96099b421dd03793c6f332d"
     },
     {
       "name": "xaeroworldmap-neoforge-26.1.2-1.47.0.jar",
