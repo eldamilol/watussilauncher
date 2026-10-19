@@ -1,6 +1,6 @@
 {
   "pack": "watussi",
-  "updatedAt": "2026-10-19T02:15:44.741Z",
+  "updatedAt": "2026-10-19T23:37:13.251Z",
   "mods": [
     {
       "name": "AI-Improvements-26.1.1-0.5.4.jar",
@@ -171,6 +171,11 @@
       "name": "watussimod-1.0.0-neoforge-26.1.2.jar",
       "size": 67834498,
       "sha256": "d7278958ddfc24755b77e64a2c8d1e322e48afc1f535b8a2a81398b9b91b1ef7"
+    },
+    {
+      "name": "watussiskins-1.0.0.jar",
+      "size": 18506,
+      "sha256": "8cd26b61736d1c35144ea72b85720d9cfe1264b6229c1140212794726954e777"
     },
     {
       "name": "worldedit-mod-7.4.3.jar",
